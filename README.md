@@ -52,10 +52,7 @@ PopupWindow 透明背景、底部弹起的通用父类BasePopupWindow
                 dismiss();
             }
         }
-    }
-    
-    
-    
+    }
 使用的时候直接显示popupwindow就可以了，可以通过调用addOnItemClickListener（）方法添加对话框中按钮的监听事件。
     
 详细可见：http://www.jianshu.com/p/aaeda50eb2a5
