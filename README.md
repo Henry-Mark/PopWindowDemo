@@ -1,7 +1,7 @@
 # PopWindowDemo
 PopupWindow 透明背景、底部弹起的通用父类BasePopupWindow
 
-#使用时，只需要继承BasePopupWindow即可，然后getLayout()、getPopupTopView()、bindView()、dealEvent()四个方法即可。
+#使用时，只需要继承BasePopupWindow即可，然后实现getLayout()、getPopupTopView()、bindView()、dealEvent()四个方法即可。
 如下：
 
 
